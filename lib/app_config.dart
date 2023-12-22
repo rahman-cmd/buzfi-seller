@@ -15,7 +15,7 @@ class AppConfig {
   static String mobile_app_code = "en";
   static bool app_language_rtl = false;
 
-  static const DOMAIN_PATH = "multi.buzfi.com"; //inside a folder
+  static const DOMAIN_PATH = "buzfi.com"; //inside a folder
 
   //do not configure these below
   static const String API_ENDPATH = "api/v2";
