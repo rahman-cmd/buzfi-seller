@@ -8,7 +8,7 @@ class AppConfig {
       ""; //enter your purchase code for the app from codecanyon
 
   //configure this
-  static const bool HTTPS = false;
+  static const bool HTTPS = true;
 
   //Default language config
   static String default_language = "en";

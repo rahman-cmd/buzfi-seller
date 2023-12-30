@@ -29,7 +29,7 @@
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>User can set address using phone location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>location when in use</string>
+	<string>Your location allows us to provide you with the best experience</string>
 	<key>ITSAppUsesNonExemptEncryption </key>
 	<false/>
 	<key>UIMainStoryboardFile</key>
